@@ -41,5 +41,24 @@ Ctrl + C
 ```
 
 ---
+## Running in your system terminal
 
+1. **Open your terminal app** (e.g., macOS Terminal, iTerm, PowerShell, cmd.exe, Linux terminal)
+2. **Navigate to the project folder**:
+   ```bash
+   cd /path/to/your/audio-web-scraper
+   ```
+3. **Install dependencies** (if you haven’t already):
+   ```bash
+   npm install   # or yarn install
+   ```
+4. **Start the scraper**:
+   ```bash
+   node scraper.js
+   ```
+5. **Cancel** with:
+   ```bash
+   Ctrl + C
+   ```
+---
 *Enjoy your automated downloads!*
