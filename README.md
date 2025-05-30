@@ -19,12 +19,12 @@ yarn install
 
 ## Configuration
 
-1. Open `scraper/downloadHelper.js`.
+1. Open `/scraper.js` and `/downloadHelper.js`.
 2. Locate the `DOWNLOAD_DIR` constant and update it to your desired folder path:
 
-   ```js
-   const DOWNLOAD_DIR = '/path/to/your/download/folder';
-   ```
+```js
+const DOWNLOAD_DIR = '/path/to/your/download/folder';
+```
 
 ## Usage
 
